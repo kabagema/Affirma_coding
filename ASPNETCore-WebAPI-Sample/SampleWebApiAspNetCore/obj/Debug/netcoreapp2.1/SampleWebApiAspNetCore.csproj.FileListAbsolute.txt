@@ -1,0 +1,14 @@
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\bin\Debug\netcoreapp2.1\SampleWebApiAspNetCore.deps.json
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\bin\Debug\netcoreapp2.1\SampleWebApiAspNetCore.runtimeconfig.json
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\bin\Debug\netcoreapp2.1\SampleWebApiAspNetCore.runtimeconfig.dev.json
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\bin\Debug\netcoreapp2.1\SampleWebApiAspNetCore.dll
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\bin\Debug\netcoreapp2.1\SampleWebApiAspNetCore.pdb
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\obj\Debug\netcoreapp2.1\SampleWebApiAspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\obj\Debug\netcoreapp2.1\SampleWebApiAspNetCore.RazorAssemblyInfo.cache
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\obj\Debug\netcoreapp2.1\SampleWebApiAspNetCore.RazorAssemblyInfo.cs
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\obj\Debug\netcoreapp2.1\SampleWebApiAspNetCore.AssemblyInfoInputs.cache
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\obj\Debug\netcoreapp2.1\SampleWebApiAspNetCore.AssemblyInfo.cs
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\obj\Debug\netcoreapp2.1\SampleWebApiAspNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\obj\Debug\netcoreapp2.1\SampleWebApiAspNetCore.dll
+C:\Users\julie\Source\Repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\obj\Debug\netcoreapp2.1\SampleWebApiAspNetCore.pdb
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\SampleWebApiAspNetCore\obj\Debug\netcoreapp2.1\SampleWebApiAspNetCore.csprojAssemblyReference.cache

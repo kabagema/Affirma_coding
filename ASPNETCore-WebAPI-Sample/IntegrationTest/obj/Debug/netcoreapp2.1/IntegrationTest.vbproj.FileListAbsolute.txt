@@ -1,0 +1,14 @@
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\bin\Debug\netcoreapp2.1\IntegrationTest.deps.json
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\bin\Debug\netcoreapp2.1\IntegrationTest.runtimeconfig.json
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\bin\Debug\netcoreapp2.1\IntegrationTest.runtimeconfig.dev.json
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\bin\Debug\netcoreapp2.1\IntegrationTest.dll
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\bin\Debug\netcoreapp2.1\IntegrationTest.pdb
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\obj\Debug\netcoreapp2.1\IntegrationTest.vbprojAssemblyReference.cache
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\obj\Debug\netcoreapp2.1\IntegrationTest.vbproj.CoreCompileInputs.cache
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\obj\Debug\netcoreapp2.1\IntegrationTest.AssemblyInfoInputs.cache
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\obj\Debug\netcoreapp2.1\IntegrationTest.AssemblyInfo.vb
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\obj\Debug\netcoreapp2.1\IntegrationTest.dll
+C:\Users\julie\source\repos\ASPNETCore-WebAPI-Sample\IntegrationTest\obj\Debug\netcoreapp2.1\IntegrationTest.pdb
